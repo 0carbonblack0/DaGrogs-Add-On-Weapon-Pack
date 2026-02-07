@@ -1,7 +1,14 @@
 # DaGrogs-Add-On-Weapon-Pack
 Simple weapon additions that aim to expand caliber and weapon platform usage in SPT. No new models. All in flea too. Edit the assort as you like.
 
-Use the following in the SVM Trader Assort window to add the weapons to the base game traders, copy and paste as is, look at the FAQ in SVM for further instructions:
+Use the following in the SVM Trader Assort window to add the weapons to the base game traders, copy and paste with each line stacked per the template example, look at the FAQ in SVM for further instructions:
+
+EXAMPLE
+
+Trader:Currency:Numberofcurrency:Itemid:leveloftrader
+Trader:Currency:Numberofcurrency:Itemid:leveloftrader
+
+Actual Assort Below
 
 Mechanic:RUB:40000:69350c4f124113667535f7bc:2
 Mechanic:RUB:8000:69350ec2124113667535f7bd:2
